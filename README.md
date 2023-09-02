@@ -11,11 +11,15 @@
 
 Computer science enthusiast with a passion for crafting elegant code and exploring the frontiers of tech innovation. Welcome to my journey into the digital realm
 
-
+<\br>
 
 ## 🔥 Tools and Technologies
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## 🔥 Streak Stats
 
