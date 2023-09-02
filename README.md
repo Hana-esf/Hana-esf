@@ -11,7 +11,6 @@
 
 Computer science enthusiast with a passion for crafting elegant code and exploring the frontiers of tech innovation. Welcome to my journey into the digital realm
 
-<\br>
 
 ## 🔥 Tools and Technologies
 
