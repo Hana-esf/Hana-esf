@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&color=F7CA49&center=true&vCenter=true&width=435&lines=Hello;It's+Hana!;Welcome+to+my+Github+Page)](https://git.io/typing-svg)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&color=F7CA49&center=true&vCenter=true&width=435&lines=Hello;It's+Hana!;Welcome+to+my+Github+Page"/>
 </p>
 
 ## 🔥 Streak Stats
