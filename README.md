@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=100&color=F7CA49&center=true&vCenter=true&width=435&lines=Hello;It's+Hana!;Welcome+to+my+Github+Page"/>
 </p>
 
+## 🔥 About me
+
+Computer science enthusiast with a passion for crafting elegant code and exploring the frontiers of tech innovation. Welcome to my journey into the digital realm
+
+
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
