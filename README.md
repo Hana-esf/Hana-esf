@@ -19,10 +19,7 @@ Computer science enthusiast with a passion for crafting elegant code and explori
 <img src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/markdown-%23323330.svg?style=for-the-badge&logo=markdown&logoColor=ffdd54">&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/F7901E" />
 </p>
 <br>
 
