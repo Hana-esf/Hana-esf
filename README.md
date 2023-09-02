@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello&width=800&height=300"/>
+</p>
+
 
 ## 🔥 Streak Stats
 
