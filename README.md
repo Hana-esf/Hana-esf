@@ -9,4 +9,8 @@
 </p>
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hana-esf)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img title="github stats" alt="Hana's stats" src="https://github-readme-stats.vercel.app/api?username=Hana-esf"/>
+</p>
+
