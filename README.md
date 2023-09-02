@@ -1,4 +1,4 @@
-
+<p align="center">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative" width="1070" height="63" preserveAspectRatio="xMidYMid" viewBox="0 0 1070 63">
 <g transform="translate(535,31.5) scale(1,1) translate(-535,-31.5)"><linearGradient id="lg-0.58416840241295" x1="0" x2="1" y1="0" y2="0">
   <stop stop-color="#f7b333" offset="0"></stop>
@@ -11,7 +11,7 @@
   <animate attributeName="d" dur="10s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-6.666666666666667s" values="M0 0L 0 47.33906716136369Q 178.33333333333334 53.29105387308639  356.6666666666667 29.14342769007264T 713.3333333333334 40.37350310696162T 1070 10.23315784429866L 1070 0 Z;M0 0L 0 54.22808775996835Q 178.33333333333334 88.3279365742249  356.6666666666667 46.23222167394768T 713.3333333333334 21.20574907049199T 1070 17.010163119811757L 1070 0 Z;M0 0L 0 69.23944460335834Q 178.33333333333334 72.78263090004722  356.6666666666667 35.87770357501231T 713.3333333333334 14.654507667247426T 1070 3.4634541340934604L 1070 0 Z;M0 0L 0 47.33906716136369Q 178.33333333333334 53.29105387308639  356.6666666666667 29.14342769007264T 713.3333333333334 40.37350310696162T 1070 10.23315784429866L 1070 0 Z"></animate>
 </path></g>
 </svg>
-
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=100&color=F7CA49&center=true&vCenter=true&width=435&lines=Hello;It's+Hana!;Welcome+to+my+Github+Page"/>
 </p>
