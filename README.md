@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative" width="50" height="63" preserveAspectRatio="xMidYMid" viewBox="0 0 1070 63">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative" width="50" height="63" preserveAspectRatio="xMidYMid" viewBox="0 0 50 63">
 <g transform="translate(535,31.5) scale(1,1) translate(-535,-31.5)"><linearGradient id="lg-0.58416840241295" x1="0" x2="1" y1="0" y2="0">
   <stop stop-color="#f7b333" offset="0"></stop>
   <stop stop-color="#e4762f" offset="1"></stop>
