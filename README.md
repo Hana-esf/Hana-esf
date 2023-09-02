@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello&width=800&height=300"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello&height=90"/>
 </p>
 
 
