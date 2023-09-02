@@ -2,10 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-<p align="center">
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7CA49&center=true&vCenter=true&width=435&lines=Hello;It's+Hana!;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
-
-</p>
 
 ## 🔥 Streak Stats
 
