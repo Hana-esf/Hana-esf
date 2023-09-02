@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## Github Stats
+## 🔥 Github Stats
 
 <p align="center">
   <img title="github stats" alt="Hana's stats" src="https://github-readme-stats.vercel.app/api?username=Hana-esf&theme=gruvbox&show_icons=true&hide_border=true"/>
