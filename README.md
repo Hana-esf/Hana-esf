@@ -12,5 +12,8 @@
 
 <p align="center">
   <img title="github stats" alt="Hana's stats" src="https://github-readme-stats.vercel.app/api?username=Hana-esf&theme=gruvbox&show_icons=true&hide_border=true"/>
+
+  <img title="github stats" alt="Hana's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-esf&layout=compact&hide_border=true"/>
+  
 </p>
 
