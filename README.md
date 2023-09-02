@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello&height=90"/>
-</p>
+![](https://raw.githubusercontent.com/Hana-esf/github-stats-transparent/main/readme_images/dark.png)
 
 
 ## 🔥 Streak Stats
