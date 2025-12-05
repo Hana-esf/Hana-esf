@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
@@ -25,7 +25,7 @@ Computer science enthusiast with a passion for crafting elegant code and explori
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hana's streak" src="https://streak-stats.demolab.com?user=Hana-esf&theme=gruvbox-duo&hide_border=true"/>
   </a>
@@ -42,4 +42,16 @@ Computer science enthusiast with a passion for crafting elegant code and explori
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
+</p> --> -->
+### Hello there, I'm Hana 👋
+
+- 🔬 Training to be an AI Researcher | Interested in **NLP**, **LLMs**, and **agentic AI systems**
+- 🤖 Passionate about building agentic systems that reason better and maintain consistency
+- 📚 Focused on human-centered AI for education and real-world problem solving
+- 🌐 Open to collaborate on LLM reasoning, agent design, and AI transparency projects
+
+
+💬 You can reach out to me on: [LinkedIn](https://www.linkedin.com/in/hana-esf) | [Email](mailto:hanaesfandiar2000@gmail.com)
+
+<img src="https://slackmojis.com/emojis/2288-christmas_parrot/download" width="30">
+
