@@ -49,6 +49,7 @@ Computer science enthusiast with a passion for crafting elegant code and explori
 - 🤖 Passionate about building agentic systems that reason better and maintain consistency
 - 📚 Focused on human-centered AI for education and real-world problem solving
 - 🌐 Open to collaborate on LLM reasoning, agent design, and AI transparency projects
+- 📃 Checkout my [newsletter](https://aiagentssimplified.substack.com/) on Substack
 
 
 💬 You can reach out to me on: [LinkedIn](https://www.linkedin.com/in/hana-esf) | [Email](mailto:hanaesfandiar2000@gmail.com)
