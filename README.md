@@ -42,7 +42,7 @@ Computer science enthusiast with a passion for crafting elegant code and explori
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p> --> -->
+</p> --> 
 ### Hello there, I'm Hana 👋
 
 - 🔬 Training to be an AI Researcher | Interested in **NLP**, **LLMs**, and **agentic AI systems**
