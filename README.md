@@ -45,7 +45,7 @@ Computer science enthusiast with a passion for crafting elegant code and explori
 </p> --> 
 ### Hello there, I'm Hana 👋
 
-- 🔬 Training to be an AI Researcher | Interested in **NLP**, **LLMs**, and **agentic AI systems**
+- 🔬 Training to be an AI Researcher Engineer | Interested in **NLP**, **LLMs**, and **agentic AI systems**
 - 🤖 Passionate about building agentic systems that reason better and maintain consistency
 - 📚 Focused on human-centered AI for education and real-world problem solving
 - 🌐 Open to collaborate on LLM reasoning, agent design, and AI transparency projects
